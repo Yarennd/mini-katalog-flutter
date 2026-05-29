@@ -1,19 +1,45 @@
 # Mini Katalog Flutter
 
 ## Proje Açıklaması
-Bu proje Flutter kullanılarak geliştirilmiş basit bir Mini Katalog uygulamasıdır.
+
+Bu proje Flutter ile geliştirilmiş basit bir Mini Katalog uygulamasıdır. Kullanıcılar ürünleri listeleyebilir, ürün detaylarını görüntüleyebilir ve sepet işlemlerini simüle edebilir.
 
 ## Özellikler
+
 - Ürün listesi görüntüleme
 - Ürün detay sayfası
 - Sepete ürün ekleme
-- Sayfa geçişleri (Navigator)
+- Sayfalar arası geçiş (Navigator)
 - Görsel kullanımı
 
-## Kullanılan Flutter Sürümü
+## Kullanılan Teknolojiler
+
+- Flutter
+- Dart
+- Material Design
+
+## Kullanılmış Flutter Sürümü
+
 Flutter SDK
 
-## Çalıştırma Adımları
+## Proje Yapısı
+
+text
+lib/
+├── Pages
+├── Interfaces
+├── Components
+└── main.dart
+
+
+## Projeyi Çalıştırma Adımları
+
 bash
 flutter pub get
 flutter run
+
+
+## Ekran Görüntüleri
+Proje içerisinde yer almaktadır.
+
+Proje içerisinde yer almaktadır.
