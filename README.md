@@ -1,4 +1,4 @@
-[13:53, 29.05.2026] Yaren Durmuş: # Mini Katalog Flutter
+# Mini Katalog Flutter
 
 ## Proje Açıklaması
 
