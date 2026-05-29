@@ -22,6 +22,7 @@ Bu proje Flutter kullanılarak geliştirilmiş basit bir mini katalog uygulamas�
 
 - Flutter SDK
 - Dart SDK
+- Visual Studio Code
 
 ## Proje Yapısı
 
